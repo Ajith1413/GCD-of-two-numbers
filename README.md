@@ -30,8 +30,7 @@ b=int(input())
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
-![Alt text](<Screenshot 2023-11-28 132137.png>)
+![Alt text](<Screenshot 2023-11-29 134826.png>)
 
 
 ## Result:
