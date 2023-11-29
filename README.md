@@ -30,7 +30,8 @@ b=int(input())
 ```
 
 ## Output:
-![Alt text](<Screenshot 2023-11-29 134826.png>)
+![Screenshot 2023-11-29 134826](https://github.com/Ajith1413/GCD-of-two-numbers/assets/139842524/974581c1-6021-49ec-92d2-3e141b497dae)
+
 
 
 ## Result:
